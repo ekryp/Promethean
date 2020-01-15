@@ -1,0 +1,51 @@
+﻿customer Name,Site Name,id,Serial_number,Time of Incident,Service Request Number,Incident type,Incident Priority,Status,Failure
+Parag Milk Foods Ltd,Darumbare,,,11/2/2019 17:08:43,,PJP,,,
+Parag Milk Foods Ltd,Kude ( Bk. 02 ),,,11/5/2019 20:31:25,,PJP,,,
+Parag Milk Foods Ltd,Induri,,,11/7/2019 18:46:28,,PJP,,,
+Parag Milk Foods Ltd,Kiwale,,,11/7/2019 18:49:26,,PJP,,,
+Parag Milk Foods Ltd,Kadus,,,11/7/2019 18:52:07,,PJP,,,
+Parag Milk Foods Ltd,Inamgaon,,,11/8/2019 7:21:00,,PJP,Normal,close,High voltage issue
+Parag Milk Foods Ltd,Madhavgan Paratha,,,11/8/2019 7:26:51,,PJP,,,
+Parag Milk Foods Ltd,Nagargaon,,,11/8/2019 7:35:00,,Service call,High,close,Stabilizer Dimmer failure
+Parag Milk Foods Ltd,Wada,,,11/8/2019 20:12:20,,PJP,,,
+Parag Milk Foods Ltd,Kharoshi,,,11/8/2019 20:14:51,,PJP,,,
+Parag Milk Foods Ltd,Chas Kaman,,,11/9/2019 23:53:37,,PJP,,,
+Parag Milk Foods Ltd,Gundegaon,,,11/12/2019 11:51:40,,Service call,Critical,close,Control Panel card failure
+Parag Milk Foods Ltd,Saradwadi,,,11/12/2019 12:08:03,,Service call,High,close,Incoming power issue
+Parag Milk Foods Ltd,Inamgaon,,,11/12/2019 12:13:08,,Installation,Critical,close,Panel & stabilizer replaced due to damage due to shor circuit
+Parag Milk Foods Ltd,Inamgaon,,,11/12/2019 12:21:56,,Service call,,,
+Parag Milk Foods Ltd,Inamgaon,,,11/12/2019 12:26:55,,Breakdown call,Critical,close,Panel & stabilizer burnt
+Parag Milk Foods Ltd,Madhavgan Paratha,,,11/12/2019 12:31:44,,PJP,,,
+Parag Milk Foods Ltd,Nagargaon,,,11/12/2019 12:37:43,,Service call,High,close,Stabilizer Dimmer failure
+Kanhaiyya Milk ( Malganga Milk ),Dandwadi,,,11/12/2019 13:59:45,,PJP,,,
+Parag Milk Foods Ltd,Tawashi,,,11/12/2019 14:05:31,,PJP,,,
+Parag Milk Foods Ltd,Tilekarwadi (kalas) (Kati),,,11/12/2019 19:30:33,,PJP,,,
+Parag Milk Foods Ltd,Dhaygude Wadi,,,11/13/2019 18:13:28,,PJP,,,
+Parag Milk Foods Ltd,Gundegaon,,,11/14/2019 21:56:20,,Breakdown call,Critical,close,Control Panel card failure. Replaced
+Parag Milk Foods Ltd,Rajangaon Mashid,,,11/14/2019 22:03:45,,Breakdown call,High,close,Stabilizer carbon brush wire cut
+Parag Milk Foods Ltd,Saradwadi,,,11/14/2019 22:11:07,,Breakdown call,Critical,close,DC to DC converter failure. Replaced
+Parag Milk Foods Ltd,Ranjangaon Mashid,,,11/14/2019 22:20:57,,Service call,Critical,close,"stabilizer carbon brush damage, Panel card failure, Inverter fan not working"
+Kanhaiyya Milk ( Malganga Milk ),Kavathe yemai,,,11/14/2019 22:24:56,,PJP,,,
+Kanhaiyya Milk ( Malganga Milk ),Kavathe yemai,,,11/14/2019 22:31:01,,Service call,Normal,close,Milk pump failure
+Parag Milk Foods Ltd,Kawathe Yamai -1 (Khadaki),,,11/14/2019 22:37:36,,PJP,,,
+Parag Milk Foods Ltd,Sarola Kasar,,,11/14/2019 22:42:02,,PJP,,,
+Parag Milk Foods Ltd,Pargaon Tarfe,,,11/14/2019 22:46:41,,PJP,Normal,close,Data logger not working and data logger replaced
+Parag Milk Foods Ltd,Belhe,,,11/14/2019 22:50:06,,PJP,,,
+Parag Milk Foods Ltd,Mirrachiwadi,,,11/15/2019 18:30:46,,PJP,,,
+Parag Milk Foods Ltd,Pimpre Khurd,,,11/15/2019 18:36:09,,PJP,,,
+Parag Milk Foods Ltd,Bibi,,,11/19/2019 7:01:57,,PJP,,,
+Parag Milk Foods Ltd,Aradgaon,,,11/19/2019 7:04:28,,PJP,,,
+Parag Milk Foods Ltd,Malewadi,,,11/19/2019 21:30:25,,PJP,,,
+Parag Milk Foods Ltd,Pimpode,,,11/20/2019 22:26:49,,PJP,,,
+Parag Milk Foods Ltd,Banwadi,,,11/20/2019 22:29:54,,PJP,,,
+Parag Milk Foods Ltd,Wada,,,11/24/2019 17:10:48,,Breakdown call,Critical,close,Milk sensor failure
+Parag Milk Foods Ltd,Palave,,,11/25/2019 12:37:50,,PJP,,,
+Parag Milk Foods Ltd,Sarola Kasar,,,11/25/2019 12:44:30,,Service call,Normal,close,stabilizer carbon brush damage & replaced
+Kanhaiyya Milk ( Malganga Milk ),Padali,,,11/25/2019 12:49:27,,PJP,Normal,close,Datal logger issue. Replaced
+Kanhaiyya Milk ( Malganga Milk ),Saket,,,11/25/2019 12:55:40,,PJP,,,
+Parag Milk Foods Ltd,Sarola Somwanshi,,,11/25/2019 13:10:25,,Service call,High,close,control panel card replaced
+Parag Milk Foods Ltd,Gundegaon,,,11/26/2019 11:07:52,,Service call,Normal,close,Stabilizer carbon brush damage. Replaced
+Kanhaiyya Milk ( Malganga Milk ),Salwadgaon,,,11/26/2019 11:15:15,,PJP,,,
+Kanhaiyya Milk ( Malganga Milk ),Mukindpur,,,11/26/2019 11:21:35,,PJP,,,
+Parag Milk Foods Ltd,Kiwale,,,11/26/2019 17:22:30,,Breakdown call,High,close,Incoming supply problem
+Parag Milk Foods Ltd,Kiwale,,,11/26/2019 17:24:29,,Breakdown call,High,close,Incoming supply problem
